@@ -1,0 +1,16 @@
+todo
+----
+* character / word format inside a paragraph
+* pluggable renderer & layouter
+* pluggable 'building blocks' (e.g. \cite)
+* pluggable spell / grammar checker etc. --> annotation layers
+* change tracker & visualizer --> annotation layer?
+* import / export
+  * HTML
+  * markdown
+* separate rendering and model
+* tables
+* superscript, subscript, formulas
+* paragraph template registry
+  * hierarchy (internal? --> hand out 'effective' format specification)
+  * notification of what needs to be re-rendered after a change --> resolve dependencies
